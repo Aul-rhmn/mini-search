@@ -42,7 +42,7 @@ The app retrieves the top matches from a local dataset and displays them dynamic
 - **Request Body:**
   ```json
   { "query": "trust badges" }
-````
+```
 
 * **Response:**
 
