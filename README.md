@@ -70,6 +70,7 @@ The app retrieves the top matches from a local dataset and displays them dynamic
 
 ---
 
+---
 
 ##  Dataset Example (`data/faqs.json`)
 
@@ -118,7 +119,7 @@ The app retrieves the top matches from a local dataset and displays them dynamic
 
 ---
 
-##  Installation & Setup
+## ⚡ Installation & Setup
 
 1. **Clone the repository**
 
