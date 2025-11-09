@@ -70,6 +70,7 @@ The app retrieves the top matches from a local dataset and displays them dynamic
 
 ---
 
+
 ---
 
 ##  Dataset Example (`data/faqs.json`)
@@ -124,7 +125,7 @@ The app retrieves the top matches from a local dataset and displays them dynamic
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Aul-rhmn/mini-search.git
+   git clone https://github.com/Aul-rhmn/Dev_MuhammadAuliarahman_TaskA
    cd mini-search
    ```
 
